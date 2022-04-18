@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Screenshot
 
-[../screenshot-dark-mode.png, ../screenshot-light-mode.png] (screenshot-light-mode.png)(screenshot-dark-mode.png)
+[screenshot-dark-mode.png] (screenshot-light-mode.png)(screenshot-dark-mode.png)
 
 ### Links
 
