@@ -21,8 +21,8 @@ screenshot-dark-mode.png, screenshot-light-mode.png
 
 ### Links
 
-- Solution URL: (https://github.com/Saviourise/countries-frontendmentor/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Saviourise/countries-frontendmentor/
+- Live Site URL: https://countries-frontend-mentor.netlify.app/
 
 ## My process
 
