@@ -17,11 +17,11 @@ Users should be able to:
 
 ### Screenshot
 
-[../screenshot-dark-mode.png, ../screenshot-light-mode.png]
+screenshot-dark-mode.png, screenshot-light-mode.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/Saviourise/countries-frontendmentor/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
